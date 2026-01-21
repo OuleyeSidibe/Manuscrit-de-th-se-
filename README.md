@@ -4,7 +4,7 @@
 
 Ce dépôt contient les **tableaux supplémentaires** associés à l’étude :
 
-> *[IME_Rho_tet, une nouvelle famille d’éléments intégratifs mobilisables putatifs impliqués dans la diffusion des gènes de résistance à la tétracycline tet(W) et tet(32) chez les bactéries intestinales humaines et animales]*  
+> *IME_Rho_tet, une nouvelle famille d’éléments intégratifs mobilisables putatifs impliqués dans la diffusion des gènes de résistance à la tétracycline tet(W) et tet(32) chez les bactéries intestinales humaines et animales*  
 > *[Sidibé Ouéye]*  
 
 
